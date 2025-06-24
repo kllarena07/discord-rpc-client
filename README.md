@@ -6,4 +6,6 @@ While there was some basic research behind this project, all of the coding was d
 
 - [Discord-CustomRP GitHub Repo](https://github.com/maximmax42/Discord-CustomRP/tree/master)
 
-These resources helped me understand that Discord listens on port 6463 for RPC connections. I then used the Warp terminal itself to help me understand how to communicate with Discord's RPC server and how to set custom Rich Presence information.
+These resources helped me understand that Discord listens on port `6463` for RPC connections. I then used the Warp terminal itself to help me understand how to communicate with Discord's RPC server and how to set custom Rich Presence information.
+
+I will not be using this script explicitly but will be using the knowledege gained to create something custom.
